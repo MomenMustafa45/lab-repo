@@ -1,0 +1,29 @@
+1-git init:
+initialize an existing directory as a Git repository
+
+2-git clone (url):
+retrieve or get the full repo files from the host or server like: github - bitbucket
+
+3-git status:
+show the status of files in working (local) directory, ex: checks the files if its added to stage and committed or not
+
+4-git add [file]:
+add the files to stage
+
+5-git reset (file):
+return back the files from stage
+
+6-git diff:
+to check the files that has changed but not staged
+
+7-git stash:
+save staged files and store them temporarily
+
+8-it push [alias] [branch]:
+push and upload the updates from local branch to remote repo branch
+
+9-git pull:
+fetch and get the last update of the remote repo to merge it and work with the last update of project
+
+10-git log:
+get all commits in the branch's history
